@@ -4,8 +4,30 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushkin-hub/php-lesson8.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pushkin-hub/php-lesson8/issues"
+  },
+  "homepage": "https://github.com/Pushkin-hub/php-lesson8#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.3",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "sass": "^1.93.2",
+    "vite": "^7.1.9"
+  }
 }

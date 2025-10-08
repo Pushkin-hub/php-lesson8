@@ -1,0 +1,15 @@
+{
+    "name": "lenovo/lesson8",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\Lesson8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pushkin-hub",
+            "email": "pushkinanton2002@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -15,7 +15,7 @@ root: path.resolve(__dirname, 'frontend'),
   
   // Настройки сборки
   build: {
-    outDir: path.resolve(__dirname, 'public/js'),
+    outDir: path.resolve(__dirname, 'public'),
     emptyOutDir:true,
     sourcemap: true,
     minify: 'esbuild'
